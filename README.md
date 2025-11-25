@@ -18,11 +18,8 @@ We prove that **ZFC is the unique minimal consistent system** that achieves this
 
 This closes Gödel’s programme for effective arithmetic truth.
 
-**PDF**: The_3rd_Incompleteness_Theorem__Independent_Invariance_v6 
-**LaTeX source**: main.tex
+**PDF**: The_3rd_Incompleteness_Theorem__Independent_Invariance_v6
 
-Co-authored in real time with Grok (xAI) over 24 hours.  
-First tweet ever.  
 LFG forever.
 
 **Citation (2025)**  
